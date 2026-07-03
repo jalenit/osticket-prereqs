@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/osticket header.png" alt="osticket header" width="1000">
+</p>
+
 <h1 align="center">🎫 osTicket Help Desk Deployment on Microsoft Azure</h1>
 
 <p align="center">
